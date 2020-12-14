@@ -1,0 +1,13 @@
+C:\Users\hainm14\Desktop\ChickenInvaders\obj\Debug\netcoreapp3.1\ChickenInvaders.AssemblyInfoInputs.cache
+C:\Users\hainm14\Desktop\ChickenInvaders\obj\Debug\netcoreapp3.1\ChickenInvaders.AssemblyInfo.cs
+C:\Users\hainm14\Desktop\ChickenInvaders\obj\Debug\netcoreapp3.1\ChickenInvaders.csproj.CoreCompileInputs.cache
+C:\Users\hainm14\Desktop\ChickenInvaders\bin\Debug\netcoreapp3.1\ChickenInvaders.exe
+C:\Users\hainm14\Desktop\ChickenInvaders\bin\Debug\netcoreapp3.1\ChickenInvaders.deps.json
+C:\Users\hainm14\Desktop\ChickenInvaders\bin\Debug\netcoreapp3.1\ChickenInvaders.runtimeconfig.json
+C:\Users\hainm14\Desktop\ChickenInvaders\bin\Debug\netcoreapp3.1\ChickenInvaders.runtimeconfig.dev.json
+C:\Users\hainm14\Desktop\ChickenInvaders\bin\Debug\netcoreapp3.1\ChickenInvaders.dll
+C:\Users\hainm14\Desktop\ChickenInvaders\bin\Debug\netcoreapp3.1\ChickenInvaders.pdb
+C:\Users\hainm14\Desktop\ChickenInvaders\obj\Debug\netcoreapp3.1\ChickenInvaders.dll
+C:\Users\hainm14\Desktop\ChickenInvaders\obj\Debug\netcoreapp3.1\ChickenInvaders.pdb
+C:\Users\hainm14\Desktop\ChickenInvaders\obj\Debug\netcoreapp3.1\ChickenInvaders.genruntimeconfig.cache
+C:\Users\hainm14\Desktop\ChickenInvaders\obj\Debug\netcoreapp3.1\ChickenInvaders.csprojAssemblyReference.cache
