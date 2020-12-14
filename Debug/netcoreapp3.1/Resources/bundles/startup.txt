@@ -1,0 +1,3 @@
+BITMAP, chicken, chicken.png;
+BITMAP, background, background.png;
+BITMAP, bullet, bullet.png;
